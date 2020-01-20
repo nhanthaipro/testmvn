@@ -1,5 +1,7 @@
 package com.mkyong.hashing;
-
+import org.junit.*;
+import org.junit.Test;
+import static org.junit.Assert.*;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
